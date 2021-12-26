@@ -30,4 +30,4 @@ steps:
 
       branch: 
 
-        - halium-11.0-4.19
+        - halium-9.0
